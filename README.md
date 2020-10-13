@@ -14,15 +14,15 @@
       <tr>
         <td>
           <a href="https://github.com/djkepa/">
-            <img style="width:390px"
+            <img 
               alt="Picture"
-              src="https://i.ibb.co/x779n3y/react.jpg"
+              src="https://i.ibb.co/HKqJR26/napola.jpg"
             />
           </a>
         </td>
         <td>
           <a href="https://github.com/djkepa/">
-            <img style="width:390px"
+            <img
               alt="Picture."
               src="https://media.giphy.com/media/XKNDxCTLwpDElXn7LF/giphy.gif"
             />
