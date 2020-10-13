@@ -14,7 +14,7 @@
       <tr>
         <td>
           <a href="https://github.com/djkepa/">
-            <img
+            <img style="width:390px"
               alt="Picture"
               src="https://i.ibb.co/x779n3y/react.jpg"
             />
@@ -22,7 +22,7 @@
         </td>
         <td>
           <a href="https://github.com/djkepa/">
-            <img
+            <img style="width:390px"
               alt="Picture."
               src="https://media.giphy.com/media/XKNDxCTLwpDElXn7LF/giphy.gif"
             />
