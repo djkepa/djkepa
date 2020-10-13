@@ -16,7 +16,7 @@
           <a href="https://github.com/djkepa/">
             <img
               alt="Picture"
-              src="https://media.giphy.com/media/Y1vohJMVMtjSQxmUot/giphy.gif"
+              src="https://i.ibb.co/x779n3y/react.jpg"
             />
           </a>
         </td>
@@ -39,9 +39,9 @@ I am a Front End Web Developer from Serbia 🇷🇸. I am interested in, write a
 
 ## 📬 Get in touch
 
-- LinkedIn: [https://www.linkedin.com/in/branislav-grozdanović/]
-- Twitter: [twitter.com/djkepa]
+- [LinkedIn](https://www.linkedin.com/in/branislav-grozdanović)
+- [Twitter](https://twitter.com/djkepa)
 
 ## 🤜🏻🤛🏻 Support Me
 
-You can support me and [buy me a coffee](https://www.buymeacoffee.com/kepa)[8], if you want. 🙏🏻
+You can support me and [buy me a coffee](https://www.buymeacoffee.com/kepa), if you want. 🙏🏻
