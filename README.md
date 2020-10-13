@@ -16,7 +16,7 @@
           <a href="https://github.com/djkepa/">
             <img
               alt="Picture"
-              src="https://media.giphy.com/media/zgduo4kWRRDVK/giphy.gif"
+              src="https://media.giphy.com/media/Y1vohJMVMtjSQxmUot/giphy.gif"
             />
           </a>
         </td>
@@ -33,16 +33,14 @@
   </table>
 </div>
 
-[![Hello 👋🏻][1]
-
 Hey 👋🏻,
 
 I am a Front End Web Developer from Serbia 🇷🇸. I am interested in, write about and develop (open source) software solutions for and with JavaScript and ReactJs.
 
 ## 📬 Get in touch
 
-- LinkedIn: [https://www.linkedin.com/in/branislav-grozdanović/][2]
-- Twitter: [twitter.com/djkepa][3]
+- LinkedIn: [https://www.linkedin.com/in/branislav-grozdanović/]
+- Twitter: [twitter.com/djkepa]
 
 ## 🤜🏻🤛🏻 Support Me
 
