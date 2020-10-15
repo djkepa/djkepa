@@ -13,15 +13,15 @@
     <tbody>
       <tr>
         <td>
-          <a href="https://github.com/djkepa/">
+          <a href="https://github.com/djkepa/quiz_app">
             <img 
               alt="Picture"
-              src="https://i.ibb.co/HKqJR26/napola.jpg"
+              src="https://media.giphy.com/media/uuBQzNsa2s8KwS1EOM/giphy.gif"
             />
           </a>
         </td>
         <td>
-          <a href="https://github.com/djkepa/">
+          <a href="https://github.com/djkepa/spring-congress_ws">
             <img
               alt="Picture."
               src="https://media.giphy.com/media/XKNDxCTLwpDElXn7LF/giphy.gif"
