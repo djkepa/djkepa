@@ -47,7 +47,7 @@ I am a Front End Web Developer from Serbia 🇷🇸. I am interested in, write a
 - [todo_app](https://github.com/djkepa/todo_app) *React, Redux, Redux-Thunk, Firebase, Formik(Yup) & Styled-Component*
 - [quiz_app](https://github.com/djkepa/quiz_app) *React, Typescript & Styled-Component*
 
-*All projects include images of projects in the repository.
+*Some of projects include images of projects in their repository.
 
 ## 📬 Get in touch
 
