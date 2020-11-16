@@ -34,7 +34,7 @@
           <a href="https://github.com/djkepa/trillo_app">
             <img 
               alt="Picture"
-                 width="50%"
+                 width="100%"
               src="https://i.ibb.co/QX8SfSD/trilloapp.jpg"
             />
           </a>
@@ -43,7 +43,7 @@
           <a href="https://github.com/djkepa/music_sp">
             <img
               alt="Picture."
-                  width="50%"
+                  width="100%"
               src="https://i.ibb.co/3ryFmH3/Musicplayer-2020.jpg"
             />
           </a>
