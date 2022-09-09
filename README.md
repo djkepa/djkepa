@@ -53,6 +53,7 @@
   </table>
 </div>
 
+<img alt="Picture." src="https://res.cloudinary.com/dfiixmt0r/image/upload/v1662722021/linkedin_cover_zwddsu.jpg" />
 Hey 👋🏻,
 
 I am a Front End Web Developer from Serbia 🇷🇸. I am interested in, write about and develop (open source) software solutions for and with JavaScript and ReactJs.
