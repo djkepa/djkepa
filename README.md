@@ -1,11 +1,11 @@
 <a href="https://github.com/djkepa/custom-react-hooks">
   <img src="https://i.ibb.co/ykSxVSX/custom-react-hooks-logo.png" alt="Custom React Hooks Logo"/>
 </a>
-<br/>
-<br/>
 <div align="center">
   A collection of reusable and well-documented custom React hooks for supercharging your React applications. These hooks cover a wide range of functionalities, making it easier for you to build dynamic and interactive user interfaces.
 </div>
+<br/>
+<br/>
 <div align="center">
   <table border="0" cellspacing="0" cellpadding="0">
     <thead>
