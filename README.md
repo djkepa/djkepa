@@ -1,3 +1,25 @@
+<a href="https://github.com/djkepa/custom-react-hooks">
+  <img src="https://i.ibb.co/ykSxVSX/custom-react-hooks-logo.png" alt="Custom React Hooks Logo"/>
+</a>
+
+<p align="center">
+  <a href="https://github.com/djkepa/custom-react-hooks/blob/main/LICENSE">
+    <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="License"/>
+  </a>
+  <a href="https://github.com/djkepa/custom-react-hooks/stargazers">
+    <img src="https://img.shields.io/github/stars/djkepa/custom-react-hooks.svg" alt="GitHub Stars"/>
+  </a>
+  <a href="https://github.com/djkepa/custom-react-hooks/network">
+    <img src="https://img.shields.io/github/forks/djkepa/custom-react-hooks.svg" alt="GitHub Forks"/>
+  </a>
+  <a href="https://github.com/djkepa/custom-react-hooks/issues">
+    <img src="https://img.shields.io/github/issues/djkepa/custom-react-hooks.svg" alt="GitHub Issues"/>
+  </a>
+</p>
+
+<div align="center">
+  A collection of reusable and well-documented custom React hooks for supercharging your React applications. These hooks cover a wide range of functionalities, making it easier for you to build dynamic and interactive user interfaces.
+</div>
 <div align="center">
   <table border="0" cellspacing="0" cellpadding="0">
     <thead>
