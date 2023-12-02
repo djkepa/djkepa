@@ -6,6 +6,11 @@
 </div>
 <br/>
 <br/>
+<img alt="Picture." src="https://res.cloudinary.com/dfiixmt0r/image/upload/v1662722021/linkedin_cover_zwddsu.jpg" />
+Hey 👋🏻,
+
+I am a Front End Web Developer from Serbia 🇷🇸. I am interested in, write about and develop (open source) software solutions for and with JavaScript and ReactJs.
+
 <div align="center">
   <table border="0" cellspacing="0" cellpadding="0">
     <thead>
@@ -60,23 +65,6 @@
     </tbody>
   </table>
 </div>
-
-<img alt="Picture." src="https://res.cloudinary.com/dfiixmt0r/image/upload/v1662722021/linkedin_cover_zwddsu.jpg" />
-Hey 👋🏻,
-
-I am a Front End Web Developer from Serbia 🇷🇸. I am interested in, write about and develop (open source) software solutions for and with JavaScript and ReactJs.
-
-## 💻 Porfolio 
-
-- [Adopt-puppy_app](https://github.com/djkepa/adopt-puppy_app) *React, Redux, Firebase, Sass, Redux Saga, Redux Persist, Reselect & Custom Hooks*
-- [nexter_app](https://github.com/djkepa/Nexter_app) *SCSS & CSS Grid*
-- [trillo_app](https://github.com/djkepa/trillo_app) *SCSS & CSS Flexbox*
-- [vogue_app](https://github.com/djkepa/vogue_app) *React, Redux, Redux-Saga, Firebase, Stripe & Styled-Component*
-- [vogue_app_with_context_api](https://github.com/djkepa/vogue_app_with_context_api) *React Hooks & Context API*
-- [todo_app](https://github.com/djkepa/todo_app) *React, Redux, Redux-Thunk, Firebase, Formik(Yup) & Styled-Component*
-- [quiz_app](https://github.com/djkepa/quiz_app) *React, Typescript & Styled-Component*
-
-*Some of projects include images of projects in their repository.
 
 ## 📬 Get in touch
 
