@@ -9,7 +9,7 @@
 <img alt="Picture." src="https://res.cloudinary.com/dfiixmt0r/image/upload/v1662722021/linkedin_cover_zwddsu.jpg" />
 Hey 👋🏻,
 
-I am a Front End Web Developer from Serbia 🇷🇸. I am interested in, write about and develop (open source) software solutions for and with JavaScript and ReactJs.
+I am a Front End Web Developer from Serbia 🇷🇸. I am interested in, write about and develop (open source) software solutions for and with JavaScript, React.JS and Next.JS.
 
 <div align="center">
   <table border="0" cellspacing="0" cellpadding="0">
@@ -26,10 +26,11 @@ I am a Front End Web Developer from Serbia 🇷🇸. I am interested in, write a
     <tbody>
       <tr>
         <td>
-          <a href="https://github.com/djkepa/quiz_app">
-            <img 
-              alt="Picture"
-              src="https://media.giphy.com/media/uuBQzNsa2s8KwS1EOM/giphy.gif"
+           <a href="https://github.com/djkepa/music_sp">
+            <img
+              alt="Picture."
+                  width="100%"
+              src="https://i.ibb.co/3ryFmH3/Musicplayer-2020.jpg"
             />
           </a>
         </td>
@@ -38,26 +39,6 @@ I am a Front End Web Developer from Serbia 🇷🇸. I am interested in, write a
             <img
               alt="Picture."
               src="https://media.giphy.com/media/XKNDxCTLwpDElXn7LF/giphy.gif"
-            />
-          </a>
-        </td>
-      </tr>
-      <tr>
-        <td>
-          <a href="https://github.com/djkepa/trillo_app">
-            <img 
-              alt="Picture"
-                 width="100%"
-              src="https://i.ibb.co/QX8SfSD/trilloapp.jpg"
-            />
-          </a>
-        </td>
-        <td>
-          <a href="https://github.com/djkepa/music_sp">
-            <img
-              alt="Picture."
-                  width="100%"
-              src="https://i.ibb.co/3ryFmH3/Musicplayer-2020.jpg"
             />
           </a>
         </td>
