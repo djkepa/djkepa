@@ -54,6 +54,4 @@ I am a Front End Web Developer from Serbia 🇷🇸. I am interested in, write a
 
 ## 🤜🏻🤛🏻 Support Me
 
-<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="kepa" data-color="#5F7FFF" data-emoji="" data-font="Cookie" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#ffffff" data-coffee-color="#FFDD00" ></script>
-
 You can support me and [buy me a coffee](https://www.buymeacoffee.com/kepa), if you want. 🙏🏻
