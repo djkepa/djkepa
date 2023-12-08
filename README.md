@@ -15,10 +15,10 @@ I am a Front End Web Developer from Serbia 🇷🇸. I am interested in, write a
   <table border="0" cellspacing="0" cellpadding="0">
     <thead>
       <tr>
-        <th>
+        <th width="50%">
           <strong><a href="https://www.linkedin.com/in/branislav-grozdanović">Linkedin</a></strong>
         </th>
-        <th>
+        <th width="50%">
           <strong><a href="twitter.com/djkepa">Twitter</a></strong>
         </th>
       </tr>
