@@ -6,7 +6,7 @@
 </div>
 <br/>
 <br/>
-<img alt="Picture." src="https://res.cloudinary.com/dfiixmt0r/image/upload/v1662722021/linkedin_cover_zwddsu.jpg" />
+<img alt="Picture." src="https://media.licdn.com/dms/image/v2/D4E16AQEjMYqkN4mG0g/profile-displaybackgroundimage-shrink_350_1400/B4EZUdXCeXGwAY-/0/1739954334059?e=1746662400&v=beta&t=NDCsyI34O_PVH6d3KhEtP_1u0sE7OWSO3a3tAmx1I-E" />
 Hey 👋🏻,
 
 I am a Front End Web Developer from Serbia 🇷🇸. I am interested in, write about and develop (open source) software solutions for and with JavaScript, React.JS and Next.JS.
