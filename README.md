@@ -2,8 +2,6 @@
 
 # 👋 Hi, I'm Bane Grozdanovic (djkepa)  
 
-![Custom React Hooks](https://your-image-link.com)
-
 🚀 **Tech Lead | Full-Stack Architect | Cloud & DevOps Expert**  
 With **10+ years of experience**, I specialize in **frontend and backend architecture, cloud solutions, and DevOps automation**. I build **scalable, high-performance applications** while leading development teams and optimizing cloud infrastructure.  
 
@@ -19,7 +17,7 @@ With **10+ years of experience**, I specialize in **frontend and backend archite
 
 ## 🛠️ Tech Stack  
 
-![Tech Stack](https://your-tech-image-link.com)
+![Tech Stack](https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png)
 
 ### 💻 **Frontend**
 ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
@@ -46,7 +44,6 @@ With **10+ years of experience**, I specialize in **frontend and backend archite
 
 ### 🛠️ **DevOps & Tools**
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232088FF.svg?style=for-the-badge&logo=github-actions&logoColor=white)
-[GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232088FF.svg?style=for-the-badge&logo=github-actions&logoColor=white)
 ![GitLab CI/CD](https://img.shields.io/badge/GitLab_CI%2FCD-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
