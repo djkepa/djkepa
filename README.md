@@ -17,8 +17,6 @@ With **10+ years of experience**, I specialize in **frontend and backend archite
 
 ## 🛠️ Tech Stack  
 
-![Tech Stack](https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png)
-
 ### 💻 **Frontend**
 ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
@@ -56,8 +54,6 @@ With **10+ years of experience**, I specialize in **frontend and backend archite
 
 ![djkepa's GitHub stats](https://github-readme-stats.vercel.app/api?username=djkepa&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=djkepa&layout=compact&theme=tokyonight)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=djkepa&theme=tokyonight)](https://git.io/streak-stats)
 
 ---
 
