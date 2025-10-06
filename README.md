@@ -81,5 +81,7 @@ A collection of **reusable and well-documented custom React hooks** for supercha
 
 ## ☕ Support My Work  
 If you like my work and would like to support me, you can **buy me a coffee**:
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-F5D04E?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/kepa)
+[![GitHub Sponsors](https://img.shields.io/badge/Sponsor%20on%20GitHub-%E2%9D%A4-blue)](https://github.com/sponsors/djkepa)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%E2%98%95-yellow)](https://buymeacoffee.com/kepa)
+
 
