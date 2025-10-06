@@ -1,4 +1,4 @@
-<img alt="Picture." src="https://media.licdn.com/dms/image/v2/D4E16AQEjMYqkN4mG0g/profile-displaybackgroundimage-shrink_350_1400/B4EZUdXCeXGwAY-/0/1739954334059?e=1746662400&v=beta&t=NDCsyI34O_PVH6d3KhEtP_1u0sE7OWSO3a3tAmx1I-E" />
+<img alt="Picture." src="https://media.licdn.com/dms/image/v2/D4E16AQEjMYqkN4mG0g/profile-displaybackgroundimage-shrink_350_1400/B4EZUdXCeXGwAY-/0/1739954334059?e=1762387200&v=beta&t=_k7wkXzDT-xPbAzxw1dCAmD3UpdHItPvARVQnU7pSVc" />
 
 # 👋 Hi, I'm Bane Grozdanovic (djkepa)  
 
