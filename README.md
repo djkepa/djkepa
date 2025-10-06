@@ -11,7 +11,14 @@ With **10+ years of experience**, I specialize in **frontend and backend archite
 - 🔭 **Currently working at:** [EPAM Systems](https://epam.com/) as a **Tech Lead**.  
 - 🌍 **Location:** Novi Sad, Serbia 🇷🇸  
 - 👨‍💻 **Specialized in:** Full-Stack Development, AWS, DevOps, React.js, Next.js, Node.js.  
-- 🎤 **Public Speaking & Open Source Contributor** – Passionate about sharing knowledge!  
+- 🎤 **Public Speaking & Open Source Contributor** – Passionate about sharing knowledge!
+
+---
+
+## ☕ Support My Work  
+If you like my work and would like to support me, you can **buy me a coffee**:
+- [![GitHub Sponsors](https://img.shields.io/badge/Sponsor%20on%20GitHub-%E2%9D%A4-blue)](https://github.com/sponsors/djkepa)
+- [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%E2%98%95-yellow)](https://buymeacoffee.com/kepa)
 
 ---
 
@@ -76,12 +83,3 @@ A collection of **reusable and well-documented custom React hooks** for supercha
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/branislav-grozdanović)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/djkepa)
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/djkepa)
-
----
-
-## ☕ Support My Work  
-If you like my work and would like to support me, you can **buy me a coffee**:
-[![GitHub Sponsors](https://img.shields.io/badge/Sponsor%20on%20GitHub-%E2%9D%A4-blue)](https://github.com/sponsors/djkepa)
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%E2%98%95-yellow)](https://buymeacoffee.com/kepa)
-
-
