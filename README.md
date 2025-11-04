@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Bane Grozdanovic (djkepa)  
 
-🚀 **Tech Lead | Full-Stack Architect | Cloud & DevOps Expert**  
+🚀 **Tech Lead | Full-Stack Architect | Cloud & DevOps Engineer**  
 With **10+ years of experience**, I specialize in **frontend and backend architecture, cloud solutions, and DevOps automation**. I build **scalable, high-performance applications** while leading development teams and optimizing cloud infrastructure.  
 
 ---
@@ -31,7 +31,7 @@ If you like my work and would like to support me, you can **buy me a coffee**:
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![Zustand](https://img.shields.io/badge/Zustand-FF9900?style=for-the-badge)
-![Recoil](https://img.shields.io/badge/Recoil-3578E5?style=for-the-badge)
+![React Query](https://img.shields.io/badge/React%20Query-3578E5?style=for-the-badge)
 ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
 
 ### 📱 **Mobile**
@@ -41,7 +41,6 @@ If you like my work and would like to support me, you can **buy me a coffee**:
 ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
 ![ExpressJS](https://img.shields.io/badge/ExpressJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
@@ -51,7 +50,6 @@ If you like my work and would like to support me, you can **buy me a coffee**:
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232088FF.svg?style=for-the-badge&logo=github-actions&logoColor=white)
 ![GitLab CI/CD](https://img.shields.io/badge/GitLab_CI%2FCD-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-A31F34?style=for-the-badge)
 
