@@ -32,7 +32,6 @@ If you like my work and would like to support me, you can **buy me a coffee**:
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![Zustand](https://img.shields.io/badge/Zustand-FF9900?style=for-the-badge)
 ![React Query](https://img.shields.io/badge/React%20Query-3578E5?style=for-the-badge)
-![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
 
 ### 📱 **Mobile**
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
