@@ -3,7 +3,7 @@
 # 👋 Hi, I'm Bane Grozdanovic (djkepa)  
 
 🚀 **Tech Lead | Full-Stack Architect | Cloud & DevOps Engineer**  
-With **10+ years of experience**, I specialize in **frontend and backend architecture, cloud solutions, and DevOps automation**. I build **scalable, high-performance applications** while leading development teams and optimizing cloud infrastructure.  
+With **9+ years of experience**, I specialize in **frontend and backend architecture, cloud solutions, and DevOps automation**. I build **scalable, high-performance applications** while leading development teams and optimizing cloud infrastructure.  
 
 ---
 
