@@ -1,4 +1,4 @@
-<img alt="Picture." src="https://media.licdn.com/dms/image/v2/D4E16AQEjMYqkN4mG0g/profile-displaybackgroundimage-shrink_200_800/B4EZUdXCeXGwAU-/0/1739954334059?e=1764806400&v=beta&t=1Xd2eD32SYBfqLGIDacTmI_gtDBqDGCeo2BoE96ElVA" />
+<img alt="Picture." src="https://i.ibb.co/mFR0nTMh/header.jpg" />
 
 # 👋 Hi, I'm Bane Grozdanovic (djkepa)  
 
