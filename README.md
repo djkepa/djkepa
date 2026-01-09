@@ -24,62 +24,70 @@ If my work helps you, consider supporting it ❤️
 ### 💻 Frontend
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
+![TypeScript](https://img.shields.io/badge/TypeScript-FC6D26?style=for-the-badge&logo=typescript)
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux)
 ![React Query](https://img.shields.io/badge/React_Query-3578E5?style=for-the-badge)
 ![Zustand](https://img.shields.io/badge/Zustand-FF9900?style=for-the-badge)
-![Tailwind_CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css)
+![Tailwind_CSS](https://img.shields.io/badge/Tailwind_CSS-3578E5?style=for-the-badge&logo=tailwind-css)
 
 ### ⚙️ Backend & APIs
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+![Node.js](https://img.shields.io/badge/Node.js-764ABC?style=for-the-badge&logo=node.js)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql)
 ![REST](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
 
 ### 🗄️ Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-61DAFB?style=for-the-badge&logo=postgresql)
+![MySQL](https://img.shields.io/badge/MySQL-FF9900?style=for-the-badge&logo=mysql)
 ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis)
+![Redis](https://img.shields.io/badge/Redis-2496ED?style=for-the-badge&logo=redis)
 
 ### ☁️ Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![Docker](https://img.shields.io/badge/Docker-DC382D?style=for-the-badge&logo=docker)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx)
-![GitHub_Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions)
-![GitLab_CI](https://img.shields.io/badge/GitLab_CI/CD-FC6D26?style=for-the-badge&logo=gitlab)
-
-## 📈 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=djkepa&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=djkepa&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</p>
-
+![GitHub_Actions](https://img.shields.io/badge/GitHub_Actions-FC6D26?style=for-the-badge&logo=github-actions)
+![GitLab_CI](https://img.shields.io/badge/GitLab_CI/CD-2088FF?style=for-the-badge&logo=gitlab)
 
 ## 🚀 Open Source Contributions
 
 ### ⭐ Featured Project: **Custom React Hooks**
-Reusable, well-documented **production-ready React hooks** designed to improve developer productivity and code quality.
 
-<p align="center">
-  <a href="https://github.com/djkepa/custom-react-hooks">
-    <img src="https://i.ibb.co/ykSxVSX/custom-react-hooks-logo.png" width="150" />
-  </a>
-</p>
+<a href="https://github.com/djkepa/custom-react-hooks">
+  <img src="https://i.ibb.co/ykSxVSX/custom-react-hooks-logo.png" width="150" />
+</a>
+  
+A curated collection of **production-ready, reusable React hooks** focused on **clean abstractions, performance, and real-world usage**.
 
+The library is designed to solve **common frontend problems** in a consistent and predictable way, helping teams:
+- Reduce boilerplate
+- Improve code readability
+- Enforce best practices across projects
+
+#### What you get
+- 🧠 **Well-designed abstractions** – hooks built around real production patterns
+- ⚡ **Performance-aware** – avoids unnecessary re-renders and side-effects
+- 🧩 **Composable & flexible** – easy to integrate into existing codebases
+- 📘 **Well-documented** – clear examples and usage guidelines
+- 🛠️ **Type-safe** – written with TypeScript in mind
+
+#### Use cases
+- Data fetching & state synchronization
+- Event listeners & browser APIs
+- UI behavior & interaction logic
+- Reusable business logic across components
+
+🔗 **Repository:** https://github.com/djkepa/custom-react-hooks
+
+--- 
 
 ### ⭐ Featured Project: **DiffeSense – Change Risk Intelligence**
-<p align="center">
-  <a href="https://github.com/djkepa/diffesense">
-    <img src="https://i.ibb.co/RkSKQT68/diffesense-logo.png" width="150" />
-  </a>
-</p>
+  
+<a href="https://github.com/djkepa/diffesense">
+  <img src="https://i.ibb.co/RkSKQT68/diffesense-logo.png" width="150" />
+</a>
 
 **Know your risk before you merge.**
 
