@@ -107,6 +107,10 @@ npm install -g diffesense
 dsense
 ```
 
+🔗 **Repository:** https://github.com/djkepa/diffesense
+
+---
+
 ### 🏆 Other Contributions:
 - 🔹 Contributed to **open-source React & Node.js projects**
 - 🔹 Speaker at **JavaScript conferences & tech workshops** 🎤
