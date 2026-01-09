@@ -1,73 +1,100 @@
-<img alt="Picture." src="https://i.ibb.co/mFR0nTMh/header.jpg" />
+<img alt="Header" src="https://i.ibb.co/mFR0nTMh/header.jpg" />
 
-# 👋 Hi, I'm Bane Grozdanovic (djkepa)  
+# 👋 Hi, I'm Bane Grozdanovic (djkepa)
 
-🚀 **Tech Lead | Full-Stack Architect | Cloud & DevOps Engineer**  
-With **9+ years of experience**, I specialize in **frontend and backend architecture, cloud solutions, and DevOps automation**. I build **scalable, high-performance applications** while leading development teams and optimizing cloud infrastructure.  
+🚀 **Tech Lead | Full-Stack Architect | Cloud & DevOps Engineer**
 
----
-
-## 📌 About Me  
-- 🔭 **Currently working at:** [EPAM Systems](https://epam.com/) as a **Tech Lead**.  
-- 🌍 **Location:** Novi Sad, Serbia 🇷🇸  
-- 👨‍💻 **Specialized in:** Full-Stack Development, AWS, DevOps, React.js, Next.js, Node.js.  
-- 🎤 **Public Speaking & Open Source Contributor** – Passionate about sharing knowledge!
+With **9+ years of experience**, I specialize in **frontend and backend architecture, cloud solutions, and DevOps automation**.  
+I build **scalable, high-performance applications**, design **developer tooling**, and lead teams toward production excellence.
 
 ---
 
-## ☕ Support My Work  
-If you like my work and would like to support me, you can **buy me a coffee**:
-- [![GitHub Sponsors](https://img.shields.io/badge/Sponsor%20on%20GitHub-%E2%9D%A4-blue)](https://github.com/sponsors/djkepa)
-- [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%E2%98%95-yellow)](https://buymeacoffee.com/kepa)
+## 📌 About Me
+- 🔭 **Currently working at:** EPAM Systems as a **Tech Lead**
+- 🌍 **Location:** Novi Sad, Serbia 🇷🇸 (EU time zone, remote-friendly)
+- 👨‍💻 **Expertise:** Full-Stack Development, AWS, DevOps, React, Node.js
+- 🎤 **Open Source & Knowledge Sharing Enthusiast**
 
 ---
 
-## 🛠️ Tech Stack  
+## ☕ Support My Work
+If my work helps you, consider supporting it ❤️
 
-### 💻 **Frontend**
-![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+- [GitHub Sponsors](https://github.com/sponsors/djkepa)
+- [Buy Me a Coffee](https://buymeacoffee.com/kepa)
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux)
+![React Query](https://img.shields.io/badge/React_Query-3578E5?style=for-the-badge)
 ![Zustand](https://img.shields.io/badge/Zustand-FF9900?style=for-the-badge)
-![React Query](https://img.shields.io/badge/React%20Query-3578E5?style=for-the-badge)
 
-### 📱 **Mobile**
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+### ⚙️ Backend & Cloud
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx)
 
-### ⚙️ **Backend & Cloud**
-![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
-![ExpressJS](https://img.shields.io/badge/ExpressJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-
-### 🛠️ **DevOps & Tools**
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232088FF.svg?style=for-the-badge&logo=github-actions&logoColor=white)
-![GitLab CI/CD](https://img.shields.io/badge/GitLab_CI%2FCD-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-A31F34?style=for-the-badge)
+### 🛠️ DevOps & CI/CD
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions)
+![GitLab CI/CD](https://img.shields.io/badge/GitLab_CI%2FCD-FC6D26?style=for-the-badge&logo=gitlab)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins)
 
 ---
 
-## 📈 GitHub Stats & Activity
+## 📈 GitHub Stats
 
-![djkepa's GitHub stats](https://github-readme-stats.vercel.app/api?username=djkepa&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=djkepa&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=djkepa&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=djkepa&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" />
+</p>
 
 ---
 
-## 🚀 Open Source Contributions  
-### ⭐ Featured Project: **[Custom React Hooks](https://github.com/djkepa/custom-react-hooks)**  
-A collection of **reusable and well-documented custom React hooks** for supercharging your React applications.
+## 🚀 Open Source Contributions
+
+### ⭐ Featured Project: **Custom React Hooks**
+Reusable, well-documented **production-ready React hooks** designed to improve developer productivity and code quality.
 
 <a href="https://github.com/djkepa/custom-react-hooks">
-  <img src="https://i.ibb.co/ykSxVSX/custom-react-hooks-logo.png" alt="Custom React Hooks Logo"/>
+  <img src="https://i.ibb.co/ykSxVSX/custom-react-hooks-logo.png" alt="Custom React Hooks Logo" width="140" />
 </a>
+
+---
+
+### ⭐ Featured Project: **DiffeSense – Change Risk Intelligence**
+<p align="center">
+  <img src="https://i.ibb.co/RkSKQT68/diffesense-logo.png" alt="DiffeSense Logo" width="160" />
+</p>
+
+**Know your risk before you merge.**
+
+DiffeSense is a **developer-first risk analysis engine** for Pull Requests.  
+It analyzes **only changed code**, detects **high-impact files**, and tells you **exactly what to do next** — before issues reach production.
+
+#### Why DiffeSense?
+- 🎯 Top 3 risky files only (no noise)
+- 💥 Blast-radius aware (dependency impact)
+- 🔐 Detects auth, payment & security-sensitive changes
+- 🎬 Concrete actions (tests to run, reviewers to tag)
+- 🔄 CI-ready (GitHub Actions, GitLab CI, Jenkins)
+- 🔇 Smart ignore for generated & locked files
+
+```bash
+npm install -g diffesense
+dsense
+```
 
 ### 🏆 Other Contributions:
 - 🔹 Contributed to **open-source React & Node.js projects**
