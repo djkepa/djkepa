@@ -86,7 +86,7 @@ The library is designed to solve **common frontend problems** in a consistent an
 ### ⭐ Featured Project: **DiffeSense – Change Risk Intelligence**
   
 <a href="https://github.com/djkepa/diffesense">
-  <img src="https://i.ibb.co/RkSKQT68/diffesense-logo.png" width="150" />
+  <img src="https://i.ibb.co/gMvbdQNm/diffesense-logo-text.png" width="150" />
 </a>
 
 **Know your risk before you merge.**
