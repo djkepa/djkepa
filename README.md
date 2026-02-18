@@ -4,7 +4,7 @@
 
 🚀 **Senior Software Engineer | Frontend Architecture & Product Systems**
 
-With **10+ years of experience**, I specialize in **frontend and backend architecture, cloud solutions, and DevOps automation**.  
+With **9+ years of experience**, I specialize in **frontend and backend architecture, cloud solutions, and DevOps automation**.  
 I build **scalable, high-performance applications**, design **developer tooling**, and lead teams toward production excellence.
 
 ## 📌 About Me
